@@ -73,7 +73,7 @@
     "browserify": "16.5.0",
     "bundlesize": "0.18.0",
     "codecov": "3.6.1",
-    "danger": "7.1.4",
+    "danger": "9.2.2",
     "graphql": "14.5.8",
     "graphql-tag": "2.10.1",
     "husky": "3.0.9",
@@ -82,7 +82,7 @@
     "prettier": "1.18.2",
     "rimraf": "3.0.0",
     "rollup": "1.25.2",
-    "ts-jest": "23.0.0",
+    "ts-jest": "24.1.0",
     "typescript": "3.6.4",
     "uglify-js": "3.6.3"
   }
